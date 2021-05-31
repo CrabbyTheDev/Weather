@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/UltralightSDK"
+		},
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/UltralightSDK.rule"
+		},
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/UltralightSDK-complete.rule"
+		},
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-build.rule"
+		},
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-configure.rule"
+		},
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-download.rule"
+		},
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-install.rule"
+		},
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-mkdir.rule"
+		},
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-patch.rule"
+		},
+		{
+			"file" : "/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"UltralightSDK"
+		],
+		"name" : "UltralightSDK"
+	}
+}

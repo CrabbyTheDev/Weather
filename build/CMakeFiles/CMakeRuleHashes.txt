@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+3cec93dbedfb1f2412e20d8a3ea3d2b0 CMakeFiles/UltralightSDK
+0143c30a932825ff65b13c260bf717c3 CMakeFiles/UltralightSDK-complete
+cbf0872fc12782e69be02265c588ef50 UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-build
+d6bd3fed4c3087175274f4b202ac405c UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-configure
+3b1358098acc72ccadb837b89624e60c UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-download
+280045b29dd730afbfd8a2526a34d022 UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-install
+56ea77e777042fd2d1bf8da70b5ab6b9 UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-mkdir
+a2b680e9c090f27ef9f2538632af50c2 UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-patch
+42620a68b4c3bd1d6215c5062b022ae0 UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-update

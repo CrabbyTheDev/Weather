@@ -1,0 +1,4 @@
+/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/rebuild_cache.dir
+/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/edit_cache.dir
+/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/MyApp.dir
+/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/UltralightSDK.dir

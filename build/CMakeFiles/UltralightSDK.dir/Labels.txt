@@ -1,0 +1,13 @@
+# Target labels
+ UltralightSDK
+# Source files and their labels
+/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/UltralightSDK
+/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/UltralightSDK.rule
+/Users/aaravkhatri/Desktop/Weather/build/CMakeFiles/UltralightSDK-complete.rule
+/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-build.rule
+/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-configure.rule
+/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-download.rule
+/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-install.rule
+/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-mkdir.rule
+/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-patch.rule
+/Users/aaravkhatri/Desktop/Weather/build/UltralightSDK-prefix/src/UltralightSDK-stamp/UltralightSDK-update.rule
